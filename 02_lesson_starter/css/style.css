@@ -1,5 +1,13 @@
-body {
+html {
   font-size: 22px;
+}
+
+body {
+  /* font-size: 22px; */
+}
+
+main {
+  font-family: monospace;
 }
 
 h1, h2 {
@@ -25,3 +33,6 @@ p {
 #second {
   font-style: italic;
 }
+
+
+/* element selector is least specific, class selector is more specific, id selector is most specific. The more specificity a selector has, it will override those of less specificity relating to an element */
