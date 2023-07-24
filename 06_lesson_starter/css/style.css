@@ -1,0 +1,34 @@
+/* Typography is the way that text is arranged and presented */
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans+Condensed&display=swap');
+
+body {
+  padding: 10%;
+  font-size: 2rem;
+  font-family: 'Fira Sans Condensed', sans-serif;
+}
+
+/* input, button {
+  font: inherit;
+} */
+
+p {
+  line-height: 1.5;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
